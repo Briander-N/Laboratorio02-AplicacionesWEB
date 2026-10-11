@@ -1,5 +1,7 @@
 # Práctica 02: Consumo de API REST
 
+<img width="1919" height="899" alt="preview" src="https://github.com/user-attachments/assets/079aa4a9-13b2-4f48-86f0-2f1fc34bfa7b" />
+
 ## Información
 
 - **Nombre:** Briander [Tu apellido]
